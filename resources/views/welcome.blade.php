@@ -79,15 +79,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Examen Uno Enhorabuena
+                    Iglesia Evangelica De Dios Pentecostal
+                             Osorno Rahue N°559
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="">Coro Instrumental</a>
+                    <a href="">Coro Polifonico</a>
+                    <a href="">Ciclistas</a>
+                    <a href="">Dorcas</a>
+                    <a href="">Avanzada Juvenil</a>
                 </div>
             </div>
         </div>
