@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #187AB6;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -47,10 +47,11 @@
 
             .title {
                 font-size: 84px;
+                color: #FFFFFF;
             }
 
             .links > a {
-                color: #636b6f;
+                color: #FFFFFF;
                 padding: 0 25px;
                 font-size: 12px;
                 font-weight: 600;
@@ -59,6 +60,10 @@
                 text-transform: uppercase;
             }
 
+            .trabajo {
+                font-size: 30px;
+                color: #FFFFFF;
+            }
             .m-b-md {
                 margin-bottom: 30px;
             }
@@ -90,6 +95,10 @@
                     <a href="">Dorcas</a>
                     <a href="">Avanzada Juvenil</a>
                 </div>
+                <br>
+                <div class="trabajo m-b-md">
+                  Página iedposornorahue en mantención
+                <div/>
             </div>
         </div>
     </body>
